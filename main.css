@@ -1,4 +1,9 @@
+body {
+    background-color: black;
+}
+
 h1 {
-    color: pink
-    background, black
+    color: pink;
+    text-align: center;
+    font-size: 18px;
 }
